@@ -52,9 +52,9 @@ if(the terminal shoes 8 vulnerabilities found)then run
 *once you run it you be directed to to an empty page 
 *localhost:3000/Flight-Booking-App
 remove the part after '/' and write register
-and the go to the login page to login and then enjoyyy the rest 🛩️.
+and the go to the Signup page to login and then enjoyyy the rest 🛩️.
 
 # DEVELOPED BY
-*   sree212212{sreehitha rayal.y:frontend}
+*  sree212212sreehitha rayal.y:frontend}
 *   hanumasaikrish21{hanuma sai krishna.p:backend}
 
