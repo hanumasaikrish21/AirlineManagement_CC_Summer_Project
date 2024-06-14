@@ -40,7 +40,7 @@ open a new terminal and run the following command
 *     cd backend
 *     npm install
 
-Use the following command to start the frontend part:
+Use the following command to start the frontend part:if(the terminal shoes 8 vulnerabilities found)then run
 if(the terminal shoes 8 vulnerabilities found)then run
 *     cd frontend
 *     npm start 
