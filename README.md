@@ -55,9 +55,10 @@ remove the part after '/' and write register
 and the go to the Signup page to login and then enjoyyy the rest 🛩️.
 
 # DEVELOPED BY
-*   sree212212sreehitha rayal.y
+*    sree212212-sreehitharayaly@gmail.com
  <h3 align="left">Connect with Us:</h3>
 <p align="left">
+<a href="https://github.com/sree212212" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/logo-2.svg" alt="Sreehitha Rayal" height="60" width="60" /></a>
+*   hanumasaikrish21-hanumasaikrishna21@gmail.com
 <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/logo-2.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
-*   hanumasaikrish21
 
