@@ -58,6 +58,6 @@ and the go to the Signup page to login and then enjoyyy the rest 🛩️.
 *   sree212212sreehitha rayal.y
  <h3 align="left">Connect with Us:</h3>
 <p align="left">
-<a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fgithub-s-secret-scanning-alerts-now-available-for-all-public-repos%2F&psig=AOvVaw0IX3womT1-D1lWRjcjVtrS&ust=1718452957002000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjknqaG24YDFQAAAAAdAAAAABAE" alt="hanuma sai krishna" height="30" width="40" /></a>
+<a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/logo_12868746" alt="hanuma sai krishna" height="30" width="40" /></a>
 *   hanumasaikrish21
 
