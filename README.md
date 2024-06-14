@@ -59,11 +59,11 @@ and the go to the Signup page to login and then enjoyyy the rest 🛩️.
 <br>
 <span>★ Email: sreehitharayaly@gmail.com</span>
 <br>
-<span>★ Github</span> <a href="https://github.com/sree212212" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="Sreehitha Rayal" height="60" width="60" /></a>
+<span>★ Github=></span> <a href="https://github.com/sree212212" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="Sreehitha Rayal" height="60" width="60" /></a>
  <br>
 <span>★ Name:HANUMA SAI KRISHNA PONAKALA </span>
 <br>
 <span>★ Email: hanumasaikrishna21@gmail.com</span>
 <br>
-<span>★ Github</span> <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
+<span>★ Github=></span> <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
 
