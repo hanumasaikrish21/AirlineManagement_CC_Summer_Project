@@ -10,7 +10,7 @@ To verify the versions you can use following commands
 To verify they are up to date run use the following command
 * cd AirlineManagement_CC_Summer_Project-main
 * cd frontend
-* npm install
+*     npm install
 * open a new terminal and run the following command
 * cd AirlineManagement_CC_Summer_Project-main
 * cd backend
