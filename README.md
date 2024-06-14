@@ -23,7 +23,7 @@ Use the following command to start the frontend part:
 
 Use the following command to start the Backend part:
 *     cd AirlineManagement_CC_Summer_Project-main (navigates to the AirlineManagement_CC_Summer_Project-main )
-*     cd Backend
+*     cd backend
 *     npm run devStart
 
 # FOR MAC USERS
@@ -46,7 +46,7 @@ if(the terminal shoes 8 vulnerabilities found)then run
 *     npm start 
 
 Use the following command to start the Backend part:
-*     cd Backend
+*     cd backend
 *     npm run devStart
 
 once you run it you be directed to to an empty page 
