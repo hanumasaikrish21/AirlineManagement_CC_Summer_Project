@@ -17,37 +17,37 @@ open a new terminal and run the following command
 *     npm install
 
 *Use the following command to start the frontend part:
-*    cd AirlineManagement_CC_Summer_Project-main (navigates to the AirlineManagement_CC_Summer_Project-main )
-*    cd frontend
-*    npm start 
+*     cd AirlineManagement_CC_Summer_Project-main (navigates to the AirlineManagement_CC_Summer_Project-main )
+*     cd frontend
+*     npm start 
 
 *Use the following command to start the Backend part:
-*    cd AirlineManagement_CC_Summer_Project-main (navigates to the AirlineManagement_CC_Summer_Project-main )
-*    cd Backend
-*    npm run devStart
+*     cd AirlineManagement_CC_Summer_Project-main (navigates to the AirlineManagement_CC_Summer_Project-main )
+*     cd Backend
+*     npm run devStart
 
 # FOR MAC USERS
 *make sure you have installed node and npm
 To verify the versions you can use following commands
-*    node -v
-*    npm -v
+*     node -v
+*     npm -v
 
 *Install node modules
 To verify they are up to date run use the following command
-*    cd frontend
-*    npm install
+*     cd frontend
+*     npm install
 open a new terminal and run the following command
-*    cd backend
-*    npm install
+*     cd backend
+*     npm install
 
 *Use the following command to start the frontend part:
 if(the terminal shoes 8 vulnerabilities found)then run
-*   cd frontend
-*   npm start 
+*     cd frontend
+*     npm start 
 
 *Use the following command to start the Backend part:
-*   cd Backend
-*   npm run devStart
+*     cd Backend
+*     npm run devStart
 
 *once you run it you be directed to to an empty page 
 *localhost:3000/Flight-Booking-App
