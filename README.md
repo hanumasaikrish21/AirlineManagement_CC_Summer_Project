@@ -54,7 +54,7 @@ if(the terminal shoes 8 vulnerabilities found)then run
 remove the part after '/' and write register
 and the go to the login page to login and then enjoyyy the rest 🛩️.
 
-*DEVELOPED BY
-   sree212212{sreehitha rayal.y:frontend}
-   hanumasaikrish21{hanuma sai krishna.p:backend}
+# DEVELOPED BY
+*   sree212212{sreehitha rayal.y:frontend}
+*   hanumasaikrish21{hanuma sai krishna.p:backend}
 
