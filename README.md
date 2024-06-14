@@ -49,8 +49,8 @@ if(the terminal shoes 8 vulnerabilities found)then run
 *     cd Backend
 *     npm run devStart
 
-*once you run it you be directed to to an empty page 
-*localhost:3000/Flight-Booking-App
+once you run it you be directed to to an empty page 
+localhost:3000/Flight-Booking-App
 remove the part after '/' and write register
 and the go to the Signup page to login and then enjoyyy the rest 🛩️.
 
